@@ -1,5 +1,3 @@
-
-
 ## Technologies Used
 
 The following technologies were used to create this portfolio:
@@ -11,10 +9,7 @@ The following technologies were used to create this portfolio:
 - Framer Motion
 - Kinsta
 
-
-
 ## 🛠 Installation & Set Up
-
 
 1. Install dependencies
 
@@ -42,11 +37,10 @@ The following technologies were used to create this portfolio:
    yarn start
    ```
 
-
 ## 🎨 Color Reference
 
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
+| Color          | Hex       |
+| -------------- | --------- |
 | Navy           | `#0a192f` |
 | Light Navy     | `#112240` |
 | Lightest Navy  | `#233554` |
@@ -54,9 +48,7 @@ The following technologies were used to create this portfolio:
 | Light Slate    | `#a8b2d1` |
 | Lightest Slate | `#ccd6f6` |
 | White          | `#e6f1ff` |
-| Purple         | `#9d00ff` |
-
-
+| Purple         | `#00c7ff` |
 
 ## 🚀 Deployment on Kinsta:
 
@@ -71,6 +63,5 @@ Use the links below to get $20 worth of credits to get started.
 [Kinsta Application Hosting](https://kinsta.com/application-hosting/?utm_source=kishan&utm_medium=digital&utm_campaign=application-hosting&utm_content=blog)
 
 [Kinsta Database Hosting](https://kinsta.com/database-hosting/?utm_source=kishan&utm_medium=digital&utm_campaign=database-hosting&utm_content=blog)
-
 
 ### This project was a part of my Youtube Channel. Check out the video to learn how to build this awesome portfolio from scratch and host the NEXT.JS Portfolio on Kinsta.

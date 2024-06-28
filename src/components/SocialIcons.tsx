@@ -11,26 +11,30 @@ import { motion } from "framer-motion";
 
 function SocialIcons() {
   const socialLinks = [
-    { name: "Github", icon: <FiGithub />, link: "https://www.github.com" },
+    {
+      name: "Github",
+      icon: <FiGithub />,
+      link: "https://github.com/shonuff1221",
+    },
     {
       name: "Youtube",
       icon: <FiYoutube />,
-      link: "https://www.youtube.com/KishanSheth21/",
+      link: "https://www.youtube.com/channel/UCtsQzqsD6Ja3Cj_YZzzUJdA",
     },
     {
       name: "LinkedIn",
       icon: <FiLinkedin />,
-      link: "https://www.linkedin.com/in/koolkishan/",
+      link: "https://www.linkedin.com/in/stephan-moreman-850767124/",
     },
     {
       name: "Instagram",
       icon: <FiInstagram />,
-      link: "https://instagram.com/koolkishansheth",
+      link: "https://www.instagram.com/shonuff1221/",
     },
     {
       name: "Twitter",
       icon: <FiTwitter />,
-      link: "https://twitter.com/koolkishansheth",
+      link: "https://x.com/shonuff1221",
     },
   ];
   return (

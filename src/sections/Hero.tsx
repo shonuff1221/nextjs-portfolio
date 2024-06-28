@@ -15,7 +15,7 @@ function Hero() {
           delay: 0.6,
         }}
       >
-        Hi my name is
+        Hi we are
       </motion.h1>
       <motion.h2
         className="hero-title-large"
@@ -27,7 +27,7 @@ function Hero() {
           delay: 0.75,
         }}
       >
-        Kishan Sheth.
+        EJM Services.
       </motion.h2>
       <motion.h3
         className="hero-title-large hero-title-sub"
@@ -39,7 +39,7 @@ function Hero() {
           delay: 1.05,
         }}
       >
-        I craft things for the web.
+        We craft things for the web.
       </motion.h3>
       <motion.p
         className="hero-text"
@@ -51,11 +51,11 @@ function Hero() {
           delay: 1.35,
         }}
       >
-        I&apos;m a software engineer with expertise in creating top-notch
-        digital experiences. My current focus is on developing products that are
+        We are software engineers with expertise in creating top-notch digital
+        experiences. Our current focus is on developing products that are
         accessible and centered around user needs, as part of the team at&nbsp;
-        <Link href="https://rapidops.com" target="_blank" className="link">
-          Rapidops.
+        <Link href="https://ejm.services" target="_blank" className="link">
+          EJM Services.
         </Link>
       </motion.p>
       <motion.div
@@ -69,8 +69,8 @@ function Hero() {
         }}
       >
         <Button
-          text="Check out my course"
-          link="https://youtube.com/kishansheth21"
+          text="Check out our services"
+          link="https://ejm.services/our-services"
         />
       </motion.div>
     </div>

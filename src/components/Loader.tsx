@@ -25,9 +25,9 @@ function Loader({ isLoading, setIsLoading }: any) {
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 100 100"
           >
-            <title>Logo</title>
+            <title>EJM Services</title>
             <g>
-              <g id="K" transform="translate(35.000000, 35.000000)">
+              <g id="EJM" transform="translate(35.000000, 35.000000)">
                 <motion.path
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
