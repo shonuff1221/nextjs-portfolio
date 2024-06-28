@@ -28,17 +28,17 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            Bonjour! My name is Kishan, and I am passionate about creating
+            Hello! My name is Stephan, and I am passionate about creating
             digital content for the web. My interest in web development was
-            sparked in 2016 when I created my first project called Lavish, a
-            social media app built using React and Node.js.
+            sparked in 2013 when I created my first company called Comp Plus, a
+            Computer/mobile repair company.
           </p>
           <p className="about-grid-info-text">
             Fast-forward to today, I specialize in designing and developing
             high-quality solutions that delight our clients and exceed their
             expectations at{" "}
-            <Link href="https://rapidops.com" className="link" target="_blank">
-              Rapidops.
+            <Link href="https://ejm.services" className="link" target="_blank">
+              EJM Services.
             </Link>
           </p>
 
@@ -63,21 +63,25 @@ function About() {
           </p>
           <ul className="about-grid-info-list">
             <li className="about-grid-info-list-item">React</li>
-            <li className="about-grid-info-list-item">React Native</li>
+            <li className="about-grid-info-list-item">Vite</li>
             <li className="about-grid-info-list-item">Next.js</li>
             <li className="about-grid-info-list-item">Typescript</li>
             <li className="about-grid-info-list-item">Redux Toolkit</li>
             <li className="about-grid-info-list-item">Node.js</li>
-            <li className="about-grid-info-list-item">Elasticsearch</li>
-            <li className="about-grid-info-list-item">Kibana</li>
-            <li className="about-grid-info-list-item">CSS</li>
+            <li className="about-grid-info-list-item">Local SEO</li>
+            <li className="about-grid-info-list-item">shadcn</li>
+            <li className="about-grid-info-list-item">Postgres</li>
+            <li className="about-grid-info-list-item">MongoDB</li>
+            <li className="about-grid-info-list-item">AI Automation</li>
+            <li className="about-grid-info-list-item">Computer Repairs</li>
+            <li className="about-grid-info-list-item">Flutter</li>
           </ul>
         </div>
         <div className="about-grid-photo">
           <div className="overlay"></div>
           <div className="overlay-border"></div>
           <div className="about-grid-photo-container">
-            <Image src="/kishan.jpeg" alt="profile" fill />
+            <Image src="/me.jpg" alt="MyFamilyPic" fill />
           </div>
         </div>
       </div>
